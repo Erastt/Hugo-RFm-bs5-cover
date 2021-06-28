@@ -11,6 +11,12 @@ assets/bootstrap/scss*
 assets/js/bootstrap.bundle.min.js
 assets/css/cover.css
 assets/css/dark.css
+# пришлось добавить следующие 4 строчки
+static/fonts/*
+assets/scss-rfm/*
+assets/js
+static/images/*
+
 
 # assets/scss-rfi/_bs-example.scss
 # assets/scss-rfi/core.scss
@@ -29,8 +35,8 @@ assets/scss-rfi/_syntax-monokai.scss
 # assets/scss-rfi/_variables.scss
 
 content/about/law
-# исключаются только b6_* и.или s8_*.
-#!не распространяется на b6-* и s8-*
+# исключаются только b6_* и.или g8_*.
+#!не распространяется на b6-* и g8-*
 b6_*
 g8_*
 
