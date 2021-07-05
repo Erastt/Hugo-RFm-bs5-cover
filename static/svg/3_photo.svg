@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512" version="1.1">
+  <title>шрифт - элемент оформления</title>
+  <!--рамки -->
+  <rect x="0" y="0" width="512" height="512"/>
+
+  <g fill="none" stroke="#fff" stroke-width="2">
+  <rect x="16" y="16" rx="16" ry="15" width="480" height="232"/>
+  <rect x="16" y="264" rx="16" ry="15" width="480" height="232"/>
+</g>
+<!-- заголовки текста -->
+  <text x="40" y="50" fill="#ffffff" font-size="20" font-family="Golos Text VF" >
+  передача
+  <tspan x="40" y="70"> смысла </tspan>
+  <tspan x="40" y="300"> привлечение </tspan>
+  <tspan x="40" y="320"> внимания </tspan>
+  </text>
+<!-- текст сверху -->
+  <text x="40" y="100"  fill="#ffffff" font-size="12" font-family="Golos Text VF"> Для лушей передачи смысла ну-
+    <tspan x="40" y="100"> Для лушей передачи смысла ну- </tspan>
+    <tspan x="40" y="115"> жен анализ условий, в которых</tspan>
+    <tspan x="40" y="130"> должна восприниматься информа-</tspan>
+    <tspan x="40" y="145">ция, и соответствие параметров</tspan>
+    <tspan x="40" y="160">шрифта этим условиям</tspan>
+    <tspan x="40" y="190">Как правило, для регулярных</tspan>
+    <tspan x="40" y="205">шрифтов разница параметров</tspan>
+    <tspan x="40" y="220">составляет менее 10%, но даже</tspan>
+    <tspan x="270" y="100">2-3% ширины или высоты</tspan>
+    <tspan x="270" y="115">знаков сильно влияют</tspan>
+    <tspan x="270" y="130">на набранный текст</tspan>
+    <tspan x="270" y="160">Вариативные шрифты позволяют</tspan>
+    <tspan x="270" y="175">квалифицированному пользовате-</tspan>
+    <tspan x="270" y="190">лю подгонять параметры шрифта</tspan>
+    <tspan x="270" y="205">под задачу, а не ориентироваться</tspan>
+    <tspan x="270" y="220">на готовый набор начертаний</tspan>
+</text>
+<!-- текст снизу -->
+<text x="170" y="365" fill="#ffffff" font-family="Bickham Script Three" font-size="80">Во всех ты,
+<tspan x="10" y="410">Душенька, нарядах</tspan>
+<tspan x="155" y="450">хороша!</tspan>
+</text>
+</svg>

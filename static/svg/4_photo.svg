@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512" version="1.1">
+  <title>шрифт - элемент оформления</title>
+  <!-- фон -->
+  <rect x="0" y="0" width="512" height="512"/>
+  <!-- белые рамки -->
+  <g fill="none" stroke="#fff" stroke-width="2">
+  <rect x="16" y="16" rx="16" ry="15" width="480" height="232"/>
+  <rect x="16" y="264" rx="16" ry="15" width="480" height="232"/>
+</g>
+<!-- заголовки -->
+<text x="40" y="50" fill="#ffffff" font-size="20" font-family="Golos Text VF" >
+  для передачи
+  <tspan x="40" y="70"> смысла </tspan>
+  <tspan x="40" y="300"> для привлечения </tspan>
+  <tspan x="40" y="320"> внимания </tspan>
+<!-- текст верхний -->
+  <tspan x="100" y="130"  font-size="60" font-family="FiraCode"> Текстовый</tspan>
+  <tspan x="150" y="190" font-family="FiraCode"  font-size="60"> шрифт</tspan>
+<!-- текст нижний -->
+  <tspan x="256" y="390" font-family="a_Globus" font-size="45" text-anchor="middle">Акциндентный</tspan>
+  <tspan x="256" y="450" font-family="a_Globus" font-size="45" text-anchor="middle">шрифт</tspan>
+</text>
+</svg>

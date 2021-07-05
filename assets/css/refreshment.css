@@ -1,0 +1,10 @@
+.divider {
+  border-radius: 50px;
+  height: 4px;
+  margin-bottom: 1.5rem;
+  width: 68px;
+
+  &.text-center {
+    margin: 0 auto;
+  }
+}

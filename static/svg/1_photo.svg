@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512" version="1.1">
+  <title>шрифт - элемент оформления</title>
+  <rect x="0" y="0" width="512" height="512"/>
+  <text x="30" y="200" fill="#ffffff" font-size="100" font-family="Golos Text VF" >
+  функции
+  <tspan x="30" y="100"> 001: </tspan>
+  <tspan x="30" y="300"> шрифта </tspan>
+  <tspan x="30" y="500">→</tspan>
+  </text>
+    <!-- <polygon points="30,400 100,400 100,350 150,420 100,490 100,440 30,440 " fill=white/> -->
+</svg>

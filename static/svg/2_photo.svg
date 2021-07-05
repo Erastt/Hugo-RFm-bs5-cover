@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512" version="1.1">
+  <title>шрифт - элемент оформления</title>
+  <rect x="0" y="0" width="512" height="512"/>
+<!-- внутренние рамки -->
+  <g fill="none" stroke="#fff" stroke-width="2" >
+  <rect x="16" y="16" rx="16" ry="15" width="480" height="480"/>
+  <rect x="16" y="170" rx="16" ry="15" width="480" height="326"/>
+  <rect x="16" y="270" rx="16" ry="15" width="480" height="226"/>
+  <rect x="16" y="380" rx="16" ry="15" width="480" height="116"/>
+</g>
+<!-- 1 заголовок -->
+  <text x="40" y="80" fill="#ffffff" font-size="55" font-family="Golos Text VF" >
+  функции
+  <tspan x="40" y="135"> шрифта </tspan>
+</text>
+<!-- другие заголовки -->
+<text x="40" y="215" fill="#ffffff" font-size="28" font-family="Golos Text VF"> прямая передача смысла
+  <tspan x="40" y="245">(набор текста)</tspan>
+  <tspan x="40" y="315">сообщение тексту</tspan>
+  <tspan x="40" y="345">дополнительного смысла</tspan>
+  <tspan x="40" y="425">привлечение внимания</tspan>
+</text>
+</svg>

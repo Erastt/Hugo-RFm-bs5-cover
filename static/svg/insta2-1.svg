@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512" version="1.1">
+  <title>шрифт - элемент оформления</title>
+  <rect x="0" y="0" width="512" height="512" fill="black" stroke="#000001" stroke-width="2"/>
+  <text x="20" y="100" fill="#ffffff" font-size="100" font-family="Golos Text VF"  font-weight="600">
+    002:
+    <tspan x="20" y="150" font-size="45" font-weight="bold" font-family="Golos Text VF">
+      функциональность
+    </tspan>
+    <tspan x="20" y="200" font-size="45" font-weight="bold">
+      и метафора в шрифте
+    </tspan>
+    <tspan x="20" y="250" font-size="45" font-weight="bold">
+      для бренда
+    </tspan>
+    <tspan x="30" y="500">→</tspan>
+  </text>
+</svg>

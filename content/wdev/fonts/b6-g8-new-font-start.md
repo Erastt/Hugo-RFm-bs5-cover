@@ -23,14 +23,62 @@ toc: true
 </svg>
 
 ## Термины
-
 > Шрифт _(нем. Schrift от schreiben «писать»)_ -- графический рисунок начертаний букв и знаков, составляющих единую стилистическую и композиционную систему, набор символов определённого размера и рисунка.<br>
 > В узком типографском смысле шрифтом называется комплект типографских литер, предназначенных для набора текста.
 
 > <footer class="blockquote-footer text-right"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B8%D1%84%D1%82"> Шрифт. </a>
 >   <cite title="Source Title">Википедия — свободной энциклопедии</cite></footer>
 
-Текст — основная часть контента на большинстве сайтов, поэтому важно грамотно подходить к его отрисовке. В этой статье разобраны базовые моменты, касающиеся подключения и оптимизации шрифтов.
+
+<div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/svg/1_photo.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/2_photo.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/3_photo.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/4_photo.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/5_photo.svg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+---
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/svg/insta2-1.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/insta2-2.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/insta2-3.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/insta2-4.svg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/svg/insta2-5.svg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+  Текст — основная часть контента на большинстве сайтов, поэтому важно грамотно подходить к его отрисовке. В этой статье разобраны базовые моменты, касающиеся подключения и оптимизации шрифтов.
 
 При разработке Web-страницы можно использовать различные шрифты при наборе текста.
 Сразу отметим, что проще всего — вообще не подключать сторонние шрифты. Вполне достаточно стандартных, которые в большинстве операционных систем  предустановлены. Это современные шрифты: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", а также [моноширинные](https://ru.wikipedia.org/wiki/Моноширинный_шрифт) — SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New". Все  они широко используются специалистами, поэтому  вполне  безопасны. Достаточно просто указать название одного из таких шрифтов в коде, и всё будет работать.
